@@ -1,4 +1,4 @@
-# Predictive-Modelling-For-Heart-Disease-Risk
+# Predictive Modelling for Heart Disease Risk
 ## Overview
 This project demonstrates the development and evaluation of a machine learning model, focusing on ensemble classification techniques and application deployment. The objective was to build a Random Forest Classifier using the UCI Heart Disease dataset, resolve pipeline serialisation issues across development environments, evaluate traditional linear and distance-based baselines, and deploy the optimal predictive architecture within a functional Flask web application.
 
